@@ -1,0 +1,8 @@
+.wrap-container {
+  width: 100%;
+}
+.wrap-container .flex-container {
+  display: flex;
+}
+
+/*# sourceMappingURL=common.css.map */

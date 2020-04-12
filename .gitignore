@@ -2,6 +2,8 @@
 front/dist
 front/tmp
 front/out-tsc
+*.css
+*.map
 
 # compiled swagger
 
