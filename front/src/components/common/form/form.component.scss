@@ -1,0 +1,15 @@
+// setup alias  @import "@colors";
+@import "../../../styles/colors";
+
+form {
+  width: 300px;
+  height: auto;
+  display: block;
+  button, label > * {
+    display: block;
+    margin: 5px 0;
+    width: 100%;
+  }
+  padding: 10px;
+  background-color: $warm-brown;
+}
